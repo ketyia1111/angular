@@ -1,4 +1,9 @@
-# App2
+# Angularでのサイト作成
+
+公式サイトにのっとって、作成してみました。
+coursera用
+![image](https://github.com/ketyia1111/angular/assets/148178185/e28b8d06-1ff6-42b6-89f1-b90d9ccad999)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.5.
 
